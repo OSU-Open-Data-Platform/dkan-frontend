@@ -12,3 +12,4 @@ TODO create issue template
 * Reina Takahara
 * Phoenix Angulo
 * Cody Renfro
+* Preet Patel
